@@ -1,0 +1,9 @@
+{
+	"name": "AWSportsADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ad97fc3-f6cf-40cd-a4bf-d7254e4fd57e",
+		"tenantId": "211964cb-65ea-4226-836a-8bb58911b98c"
+	}
+}
